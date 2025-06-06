@@ -57,6 +57,8 @@ let help = [
 ↳ Run Snake Game.
 <span class="command">clear</span>
 ↳ Clear the terminal.
+<span class="command">friend</span>
+↳ Cool site from cool people.
 </pre></div><br>`,
 ];
 let projects = [
