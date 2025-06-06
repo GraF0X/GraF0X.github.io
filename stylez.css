@@ -188,7 +188,7 @@ margin-left: auto;
   overflow-y: scroll;
 }
 .content-container {
-  display: center;
+  display: flex;
   flex-direction: row;
   flex-wrap: wrap; /* allows wrapping on small screens */
 }
