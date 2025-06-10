@@ -21,7 +21,7 @@
 }
 
 @font-face {
-    font-family: Gohu;
+    font-family: gohu;
     src: url(../fonts/GohuFont11NerdFontMono-Regular.ttf);
 }
 
@@ -438,11 +438,11 @@ li.no {
 
 
 .icon-font {
-  font-family: 'Gohu'; 
+  font-family: 'gohu'; 
 font-size: 5em;
 }
 .icon-font2 {
-  font-family: 'Gohu'; 
+  font-family: 'gohu'; 
 font-size: 2.5em;
 }
 
