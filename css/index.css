@@ -22,12 +22,12 @@
 
 @font-face {
     font-family: gohu;
-    src: url(../fonts/GohuFont11NerdFontMono-Regular.ttf);
+    src: url(https://fzerox.xyz/fonts/GohuFont11NerdFontMono-Regular.ttf);
 }
 
 @font-face {
     font-family: glamatrix;
-    src: url(../fonts/Glamatrix.ttf);
+    src: url(https://fzerox.xyz/fonts/Glamatrix.ttf);
 }
 
 ::selection {
