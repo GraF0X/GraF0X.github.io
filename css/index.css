@@ -21,8 +21,8 @@
 }
 
 @font-face {
-    font-family: Verela;
-    src: url(../fonts/e-ukrainehead-light_w.ttf);
+    font-family: Gohu;
+    src: url(../fonts/GohuFont11NerdFontMono-Regular.ttf);
 }
 
 @font-face {
@@ -438,11 +438,11 @@ li.no {
 
 
 .icon-font {
-  font-family: 'Verela'; 
+  font-family: 'Gohu'; 
 font-size: 5em;
 }
 .icon-font2 {
-  font-family: 'Verela'; 
+  font-family: 'Gohu'; 
 font-size: 2.5em;
 }
 
