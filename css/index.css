@@ -26,6 +26,11 @@
 }
 
 @font-face {
+    font-family: e-ua;
+    src: url(https://fzerox.xyz/fonts/EUkraineHeadLOGONerdFont-Regular.ttf);
+}
+
+@font-face {
     font-family: glamatrix;
     src: url(https://fzerox.xyz/fonts/Glamatrix.ttf);
 }
