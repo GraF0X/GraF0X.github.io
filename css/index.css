@@ -26,8 +26,12 @@
 }
 
 @font-face {
-    font-family: e-ua;
+    font-family: e-ua2;
     src: url(https://fzerox.xyz/fonts/EUkraineHeadLOGONerdFont-Regular.ttf);
+}
+@font-face {
+    font-family: e-ua;
+    src: url(https://fzerox.xyz/fonts/EUkraineHeadNerdFont-Light.otf);
 }
 
 @font-face {
