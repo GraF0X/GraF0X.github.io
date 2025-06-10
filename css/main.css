@@ -26,6 +26,15 @@
 }
 
 @font-face {
+    font-family: e-ua2;
+    src: url(https://fzerox.xyz/fonts/EUkraineHeadLOGONerdFont-Regular.ttf);
+}
+@font-face {
+    font-family: e-ua;
+    src: url(https://fzerox.xyz/fonts/EUkraineHeadNerdFont-Light.otf);
+}
+
+@font-face {
     font-family: glamatrix;
     src: url(https://fzerox.xyz/fonts/Glamatrix.ttf);
 }
@@ -82,7 +91,7 @@ body {
     color: var(--foreground);
     margin: 0;
 
-    font-family: Verela;
+    font-family: e-ua;
 
     transition: background var(--transition-main);
 }
@@ -173,7 +182,7 @@ main {
 }
 
 .link-card-2 span {
-    font-family: glamatrix;
+    font-family: galimatrix;
 }
 
 .card-header {
@@ -438,11 +447,11 @@ li.no {
 
 
 .icon-font {
-  font-family: 'gohu'; 
+  font-family: 'e-ua'; 
 font-size: 5em;
 }
 .icon-font2 {
-  font-family: 'gohu';
+  font-family: 'e-ua';
 font-size: 2.5em;
 }
 
